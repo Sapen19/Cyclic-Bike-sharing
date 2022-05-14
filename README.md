@@ -1,5 +1,5 @@
 # Cyclistic Bike-sharing Analysis
-This is a Google Capstone project were the task was to figure out how Casual and Member riders use Cyclic Bike-sharing  differently
+This is a Google Capstone project that answers the question "How do annual members and casual riders use Cycistic bikes differently?" This is one of three questions that will guide a marketing strategy to increase the number of riders with memberships. A
 ## Project Guide
 In this project i used Pandas, Matplotlib and Seaborn to analyze and answer business questions using 12 months of "bike-sharing" dataset. The data contains hundreds of thousands of data broken down into ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, etc
 
